@@ -10,15 +10,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavan-0228&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan0228" /> </p>
 
 
--   🔭 I’m currently working on **True Feedback**
+-   🔭 I’m currently working on **Coding Arena**
 
--   🌱 I’m currently learning **Next , AWS**
+-   🌱 I’m currently learning *Data Structures & Algorithms*
 
 -   💬 Ask me about **react , Nodejs , Javascript**
 
 -   📫 How to reach me **pavanrasal4@gmail.com**
 
--   📄 Know about my experiences [https://1drv.ms/b/c/f5a480dacaead9ce/EahfkyAvJ99Ml7cz4IiENrUBSbFC-lHWEBP26rzqE9JEZQ?e=gCww3z](https://1drv.ms/b/c/f5a480dacaead9ce/EahfkyAvJ99Ml7cz4IiENrUBSbFC-lHWEBP26rzqE9JEZQ?e=gCww3z)
+-   🌐 Portfolio: [https://pavanrasal.me](https://pavanrasal.me)
+
+-   📄 Know about my experiences [https://pavanrasal.me/RESUME.pdf](https://pavanrasal.me/RESUME.pdf)
 
 -   ⚡ Fun fact **I tend to have full-on conversations with <br> myself—great way to brainstorm or just pass time! 😄**
 
