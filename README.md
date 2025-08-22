@@ -20,7 +20,7 @@
 
 -   🌐 Portfolio: [https://pavanrasal.me](https://pavanrasal.me)
 
--   📄 Know about my experiences [https://pavanrasal.me/RESUME.pdf](https://pavanrasal.me/RESUME.pdf)
+-   📄 Know about my experiences [https://pavanrasal.me/resume.pdf](https://pavanrasal.me/resume.pdf)
 
 -   ⚡ Fun fact **I tend to have full-on conversations with <br> myself—great way to brainstorm or just pass time! 😄**
 
